@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning android develepment
 - 💞️ I’m looking to collaborate on unique android project
 - 📫 How to reach me 1.mail on shubhg662@gmail.com
--                     2. insta id : shinchandas0
+-                     2. insta id : shubh._.gupta
 -                     3. 
 
 - like to comunicate people intresting ideas. 
