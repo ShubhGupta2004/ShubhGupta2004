@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhGupta2004
+- 👋 Hi, I’m ShubhGupta
 - 👀 I’m interested in cooking,anime,gardening.
 - 🌱 I’m currently learning android develepment
 - 💞️ I’m looking to collaborate on unique android project
