@@ -1,10 +1,10 @@
-<style="margin-right: 30px" ![hello-world](https://user-images.githubusercontent.com/92709931/219141083-9d4d6358-f167-4678-8013-3fafbf1ed5e9.gif)>
+                            ![hello-world](https://user-images.githubusercontent.com/92709931/219141083-9d4d6358-f167-4678-8013-3fafbf1ed5e9.gif)
 
 
 <h1 align="center">Hi 👋, There Myself Shubh Gupta</h1>
 <h3 align="center">A passionate Android Developer who connects cableless of Android to Machine Learning and Ai</h3>
 
-<img align="center" style="margin-right: 30px" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta2004" /> </p>
