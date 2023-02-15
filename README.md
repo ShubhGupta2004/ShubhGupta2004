@@ -1,9 +1,9 @@
-[![MasterHead](https://dribbble.com/shots/3870893-Hello-World-JS-Day?utm_source=Clipboard_Shot&utm_campaign=guzmanbarquin&utm_content=Hello%20World%20-%20JS%20Day&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=guzmanbarquin&utm_content=Hello%20World%20-%20JS%20Day&utm_medium=Social_Share)]
+[![MasterHead]([https://dribbble.com/shots/3870893-Hello-World-JS-Day?utm_source=Clipboard_Shot&utm_campaign=guzmanbarquin&utm_content=Hello%20World%20-%20JS%20Day&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=guzmanbarquin&utm_content=Hello%20World%20-%20JS%20Day&utm_medium=Social_Share](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966))]
 
 <h1 align="center">Hi 👋, There Myself Shubh Gupta</h1>
 <h3 align="center">A passionate Android Developer who connects cableless of Android to Machine Learning and Ai</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta2004" /> </p>
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubh-gupta-012805240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubh-gupta-012805240/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shubh.__.gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shubh.__.gupta/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user2650mm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user2650mm/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@shubhg662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@shubhg662" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/zewa05ysm7urp2qf0wmaeo0jmt0ki87np55alenl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/zewa05ysm7urp2qf0wmaeo0jmt0ki87np55alenl/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubh-gupta-012805240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh-gupta-012805240" height="30" width="40" /></a>
+<a href="https://instagram.com/shubh.__.gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh.__.gupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user2650mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2650mm" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shubhg662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shubhg662" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/zewa05ysm7urp2qf0wmaeo0jmt0ki87np55alenl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zewa05ysm7urp2qf0wmaeo0jmt0ki87np55alenl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
