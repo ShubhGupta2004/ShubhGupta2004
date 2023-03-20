@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, There Myself Shubh Gupta</h1>
-<h3 align="center">A passionate Android Developer who connects cableless of Android to Machine Learning and Ai</h3>
+<h3 align="center">A passionate Android Developer who connects cabels of Android to Machine Learning and Ai</h3>
 
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
