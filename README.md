@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, There Myself Shubh Gupta</h1>
 <h3 align="center">A passionate Android Developer who connects cabels of Android to Machine Learning and Ai</h3>
 
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta2004" /> </p>
