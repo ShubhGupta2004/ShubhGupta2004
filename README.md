@@ -1,4 +1,6 @@
-![hello-world](https://user-images.githubusercontent.com/92709931/219141083-9d4d6358-f167-4678-8013-3fafbf1ed5e9.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92709931/219141083-9d4d6358-f167-4678-8013-3fafbf1ed5e9.gif" alt="hello-world">
+</div>
 
 
 <h1 align="center">Hi 👋, There Myself Shubh Gupta</h1>
